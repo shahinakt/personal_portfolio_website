@@ -100,8 +100,7 @@
       "Full Stack",
       "Backend",
       "AI/ML",
-      "Computer Vision",
-      "Cybersecurity"
+      "Computer Vision"
     ],
     "github": "https://github.com/shahinakt/AI_based_cctv_multi_detection",
     "video": {
@@ -116,7 +115,7 @@
     "id": "ai-cctv-mobile-app",
     "title": "AI CCTV Mobile Monitoring Application",
     "description": "Cross-platform AI-powered CCTV surveillance application built with React Native and Expo featuring live monitoring, real-time alerts, secure authentication, role-based access, and multi-event detection.",
-    "image": "/mobile-cctv-app.jpg",
+    "image": "/image1.jpg",
     "tech": [
       "React Native",
       "Expo",
@@ -133,7 +132,7 @@
     "github": "https://github.com/shahinakt/ai-cctv-mobile",
     "video": {
       "src": "https://cdn.jsdelivr.net/gh/shahinakt/portfolio-assets/videos/mobile.mp4",
-      "poster": "/mobile-cctv-app.jpg",
+      "poster": "/image1.jpg",
       "autoplayPreview": true,
       "muted": true,
       "loop": true
