@@ -73,7 +73,7 @@
     "github": "https://github.com/RiLantern/consumer_review_analytics_platform",
     "video": {
       "src": "https://cdn.jsdelivr.net/gh/shahinakt/portfolio-assets/videos/cap.mp4",
-      "poster": "/image1.jpg",
+      "poster": "/customer-review-dashboard.jpg",
       "autoplayPreview": true,
       "muted": true,
       "loop": true
