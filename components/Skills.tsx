@@ -125,7 +125,7 @@ const skillCategories = [
     category: 'Tools & Others',
     skills: [
       'Postman',
-      'Jest'
+      'Jest',
       'VS Code',
       'Bash',
       'Notion',
