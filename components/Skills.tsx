@@ -99,6 +99,7 @@ const skillCategories = [
     skills: [
       'Git',
       'GitHub',
+      'GitLab',
       'CI/CD',
       'AWS',
       'Vercel',
@@ -124,10 +125,9 @@ const skillCategories = [
     category: 'Tools & Others',
     skills: [
       'Postman',
-      'GitHub Copilot',
+      'Jest'
       'VS Code',
       'Bash',
-      'Kali Linux',
       'Notion',
       'Cursor',
       'ChatGPT',
