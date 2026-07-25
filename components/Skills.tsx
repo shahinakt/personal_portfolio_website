@@ -12,6 +12,7 @@ const skillCategories = [
       'Node.js',
       'REST APIs',
       'SQLAlchemy',
+      'SpringBoot',
       'Pydantic',
       'JWT Authentication',
       'Swagger/OpenAPI',
@@ -77,8 +78,7 @@ const skillCategories = [
       'TensorFlow',
       'Transformers',
       'OpenCV',
-      'YOLOv8',
-      'Prompt Engineering'
+      'YOLOv8'
     ],
     color: 'bg-purple-500/10 text-purple-600 dark:text-purple-400 border-purple-200 dark:border-purple-800'
   },
@@ -101,8 +101,8 @@ const skillCategories = [
       'GitHub',
       'CI/CD',
       'AWS',
-      'Firebase',
-      'Vercel'
+      'Vercel',
+      'Render'
     ],
     color: 'bg-orange-500/10 text-orange-600 dark:text-orange-400 border-orange-200 dark:border-orange-800'
   },
@@ -129,6 +129,7 @@ const skillCategories = [
       'Bash',
       'Kali Linux',
       'Notion',
+      'Cursor',
       'ChatGPT',
       'Claude',
       'Gemini'
