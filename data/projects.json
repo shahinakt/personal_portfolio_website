@@ -1,7 +1,31 @@
 [
   {
+    "id": "agrirent-equipment-rental",
+    "title": "Agri Equipment Rental System",
+    "description": "Built a production-style full-stack equipment rental marketplace where farmers can search and book agricultural machinery while owners manage listings, availability, and booking requests. Implemented JWT authentication, role-based authorization, booking conflict detection, REST APIs, and responsive UI with deployment on Vercel and Render.",
+    "image": "/agrirent.png",
+    "tech": [
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "FastAPI",
+      "SQLAlchemy",
+      "SQLite",
+      "JWT",
+      "Axios"
+    ],
+    "category": [
+      "Full Stack",
+      "Backend",
+      "Web Development"
+    ],
+    "github": "https://github.com/shahinakt/agri-rental",
+    "liveUrl": "https://agri-rental-nu.vercel.app",
+    "video": null
+  },
+  {
     "id": "threat-intelligence-chatbot",
-    "title": "Threat Intelligence Platform with AI Chatbot",
+    "title": "Threat Intelligence Platform",
     "description": "Designed and developed a FastAPI backend providing secure REST APIs for cyber threat analysis, scam detection, real-time alerts, MongoDB data management, and chatbot-assisted investigation through an interactive React dashboard.",
     "image": "/cybersecurity-professional-work.jpg",
     "tech": [
@@ -9,12 +33,12 @@
       "FastAPI",
       "React",
       "MongoDB",
-      "REST APIs",
+      "REST API",
       "JWT"
     ],
     "category": [
-      "Backend",
       "Full Stack",
+      "Backend",
       "Cybersecurity",
       "AI/ML"
     ],
@@ -42,14 +66,74 @@
       "Pandas"
     ],
     "category": [
-      "Backend",
       "Full Stack",
+      "Backend",
       "AI/ML"
     ],
     "github": "https://github.com/RiLantern/consumer_review_analytics_platform",
     "video": {
-      "src": "https://cdn.jsdelivr.net/gh/shahinakt/portfolio-assets/videos/customer-review-dashboard.mp4",
-      "poster": "/customer-review-dashboard.jpg",
+      "src": "https://cdn.jsdelivr.net/gh/shahinakt/portfolio-assets/videos/cap.mp4",
+      "poster": "/image1.jpg",
+      "autoplayPreview": true,
+      "muted": true,
+      "loop": true
+    }
+  },
+  {
+    "id": "cctv-multi-detection",
+    "title": "AI CCTV Multi Detection System",
+    "description": "Developed an AI-powered surveillance platform using FastAPI, YOLOv8, OpenCV, React, and Firebase to detect violence, theft, falls, and accidents with real-time notifications.",
+    "image": "/cctv-security-technology-with-lock-icon-digital-remix.jpg",
+    "tech": [
+      "Python",
+      "FastAPI",
+      "React",
+      "YOLOv8",
+      "ByteTrack",
+      "OpenCV",
+      "PyTorch",
+      "WebRTC",
+      "JWT",
+      "REST API"
+    ],
+    "category": [
+      "Full Stack",
+      "Backend",
+      "AI/ML",
+      "Computer Vision",
+      "Cybersecurity"
+    ],
+    "github": "https://github.com/shahinakt/AI_based_cctv_multi_detection",
+    "video": {
+      "src": "https://cdn.jsdelivr.net/gh/shahinakt/portfolio-assets/videos/cctv.mp4",
+      "poster": "/cctv-security-technology-with-lock-icon-digital-remix.jpg",
+      "autoplayPreview": true,
+      "muted": true,
+      "loop": true
+    }
+  },
+  {
+    "id": "ai-cctv-mobile-app",
+    "title": "AI CCTV Mobile Monitoring Application",
+    "description": "Cross-platform AI-powered CCTV surveillance application built with React Native and Expo featuring live monitoring, real-time alerts, secure authentication, role-based access, and multi-event detection.",
+    "image": "/mobile-cctv-app.jpg",
+    "tech": [
+      "React Native",
+      "Expo",
+      "FastAPI",
+      "Firebase",
+      "JWT",
+      "REST API"
+    ],
+    "category": [
+      "Mobile Development",
+      "AI/ML",
+      "Computer Vision"
+    ],
+    "github": "https://github.com/shahinakt/ai-cctv-mobile",
+    "video": {
+      "src": "https://cdn.jsdelivr.net/gh/shahinakt/portfolio-assets/videos/mobile.mp4",
+      "poster": "/mobile-cctv-app.jpg",
       "autoplayPreview": true,
       "muted": true,
       "loop": true
@@ -84,36 +168,8 @@
     }
   },
   {
-    "id": "cctv-multi-detection",
-    "title": "AI-Based CCTV Multi Detection System",
-    "description": "Developed an AI-powered surveillance platform using FastAPI, YOLOv8, OpenCV, React, and Firebase to detect violence, theft, falls, and accidents with real-time notifications.",
-    "image": "/cctv-security-technology-with-lock-icon-digital-remix.jpg",
-    "tech": [
-      "Python",
-      "FastAPI",
-      "YOLOv8",
-      "OpenCV",
-      "React",
-      "Firebase",
-      "AWS"
-    ],
-    "category": [
-      "Backend",
-      "AI/ML",
-      "Computer Vision"
-    ],
-    "github": "https://github.com/shahinakt/AI_based_cctv_multi_detection",
-    "video": {
-      "src": "https://cdn.jsdelivr.net/gh/shahinakt/portfolio-assets/videos/cctv.mp4",
-      "poster": "/cctv-security-technology-with-lock-icon-digital-remix.jpg",
-      "autoplayPreview": true,
-      "muted": true,
-      "loop": true
-    }
-  },
-  {
     "id": "disease-predictor-chatbot",
-    "title": "Disease Predictor with AI Chatbot",
+    "title": "Disease Prediction System",
     "description": "Developed a FastAPI-powered healthcare platform that predicts diseases from symptoms using machine learning models and REST APIs with a React frontend.",
     "image": "/face-recognition-personal-identification-collage.jpg",
     "tech": [
@@ -138,25 +194,6 @@
     }
   },
   {
-    "id": "portfolio-website",
-    "title": "Portfolio Website",
-    "description": "Personal portfolio built with Next.js, TypeScript, Tailwind CSS, and Framer Motion featuring responsive design, SEO optimization, dark mode, and recruiter-focused backend branding.",
-    "image": "/Screenshot 2025-08-07 193506.png",
-    "tech": [
-      "Next.js",
-      "React",
-      "TypeScript",
-      "Tailwind CSS",
-      "Framer Motion"
-    ],
-    "category": [
-      "Web Development"
-    ],
-    "github": "https://github.com/shahinakt/portfolio-website",
-    "liveUrl": "https://www.shahinasareenkt.dev",
-    "video": null
-  },
-  {
     "id": "ai-resume-ats-checker",
     "title": "AI Resume ATS Checker",
     "description": "Built an AI-powered resume analysis platform using FastAPI and NLP to evaluate ATS compatibility and generate role-specific recommendations.",
@@ -177,30 +214,6 @@
     "video": {
       "src": "https://cdn.jsdelivr.net/gh/shahinakt/portfolio-assets/videos/ats.mp4",
       "poster": "/resume-apply-work-form-concept.jpg",
-      "autoplayPreview": true,
-      "muted": true,
-      "loop": true
-    }
-  },
-  {
-    "id": "smart-document-converter",
-    "title": "Smart Document Converter",
-    "description": "Converts multiple document formats while preserving formatting and supporting summarization workflows.",
-    "image": "/2916138.jpg",
-    "tech": [
-      "Python",
-      "FastAPI",
-      "PyPDF2",
-      "Pypandoc"
-    ],
-    "category": [
-      "Backend",
-      "Productivity"
-    ],
-    "github": "https://github.com/shahinakt/universal_file_convertor_pro",
-    "video": {
-      "src": "https://cdn.jsdelivr.net/gh/shahinakt/portfolio-assets/videos/doc.mp4",
-      "poster": "/2916138.jpg",
       "autoplayPreview": true,
       "muted": true,
       "loop": true
@@ -233,9 +246,33 @@
     }
   },
   {
+    "id": "smart-document-converter",
+    "title": "Smart Document Converter",
+    "description": "Converts multiple document formats while preserving formatting and supporting summarization workflows.",
+    "image": "/2916138.jpg",
+    "tech": [
+      "Python",
+      "FastAPI",
+      "PyPDF2",
+      "Pypandoc"
+    ],
+    "category": [
+      "Backend",
+      "Productivity"
+    ],
+    "github": "https://github.com/shahinakt/universal_file_convertor_pro",
+    "video": {
+      "src": "https://cdn.jsdelivr.net/gh/shahinakt/portfolio-assets/videos/doc.mp4",
+      "poster": "/2916138.jpg",
+      "autoplayPreview": true,
+      "muted": true,
+      "loop": true
+    }
+  },
+  {
     "id": "ai-project-builder",
     "title": "AI Project Builder",
-    "description": "Platform that generates project ideas, architecture, and boilerplate using LLMs.",
+    "description": "Platform that generates project ideas, software architecture, and starter code using large language models.",
     "image": "/person-working-html-computer.jpg",
     "tech": [
       "Next.js",
@@ -250,6 +287,29 @@
     "video": {
       "src": "https://cdn.jsdelivr.net/gh/shahinakt/portfolio-assets/videos/pr.mp4",
       "poster": "/person-working-html-computer.jpg",
+      "autoplayPreview": true,
+      "muted": true,
+      "loop": true
+    }
+  },
+  {
+    "id": "ml-plant-classifier",
+    "title": "ML Plant Image Classifier",
+    "description": "Machine learning web application for identifying plant species from uploaded images.",
+    "image": "/images.jpg",
+    "tech": [
+      "React",
+      "TensorFlow.js",
+      "MobileNet"
+    ],
+    "category": [
+      "AI/ML",
+      "Web Development"
+    ],
+    "github": "https://github.com/shahinakt/ML_plant_image_classifier",
+    "video": {
+      "src": "https://cdn.jsdelivr.net/gh/shahinakt/portfolio-assets/videos/plant.mp4",
+      "poster": "/images.jpg",
       "autoplayPreview": true,
       "muted": true,
       "loop": true
@@ -278,26 +338,22 @@
     }
   },
   {
-    "id": "ml-plant-classifier",
-    "title": "ML Plant Image Classifier",
-    "description": "Machine learning web application for identifying plant species from uploaded images.",
-    "image": "/images.jpg",
+    "id": "portfolio-website",
+    "title": "Portfolio Website",
+    "description": "Personal portfolio built with Next.js, TypeScript, Tailwind CSS, and Framer Motion featuring responsive design, SEO optimization, dark mode, and recruiter-focused backend branding.",
+    "image": "/Screenshot 2025-08-07 193506.png",
     "tech": [
+      "Next.js",
       "React",
-      "TensorFlow.js",
-      "MobileNet"
+      "TypeScript",
+      "Tailwind CSS",
+      "Framer Motion"
     ],
     "category": [
-      "AI/ML",
       "Web Development"
     ],
-    "github": "https://github.com/shahinakt/ML_plant_image_classifier",
-    "video": {
-      "src": "https://cdn.jsdelivr.net/gh/shahinakt/portfolio-assets/videos/plant.mp4",
-      "poster": "/images.jpg",
-      "autoplayPreview": true,
-      "muted": true,
-      "loop": true
-    }
+    "github": "https://github.com/shahinakt/portfolio-website",
+    "liveUrl": "https://www.shahinasareenkt.dev",
+    "video": null
   }
 ]
