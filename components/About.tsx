@@ -8,12 +8,12 @@ const roles = [
   {
     title: 'Backend Developer',
     icon: Server,
-    description: 'Python, FastAPI, REST APIs, PostgreSQL, MongoDB'
+    description: 'Python, FastAPI, Node.js, SpringBoot, REST APIs, PostgreSQL, MongoDB'
   },
   {
     title: 'Full Stack Developer',
     icon: Code,
-    description: 'React, Next.js, TypeScript, Tailwind CSS'
+    description: 'React, Next.js, Vue.js, TypeScript, Tailwind CSS'
   },
   {
     title: 'AI & Machine Learning',
